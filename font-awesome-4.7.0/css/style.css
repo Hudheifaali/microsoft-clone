@@ -1,0 +1,10 @@
+.full-nav{
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+}
